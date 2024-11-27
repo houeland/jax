@@ -1556,6 +1556,7 @@ exports_files(
         "api_test.py",
         "array_test.py",
         "cache_key_test.py",
+        "colocated_python_test.py",
         "compilation_cache_test.py",
         "memories_test.py",
         "pmap_test.py",
